@@ -8,8 +8,12 @@ A locally hosted web banking application built with Django, simulating real-worl
 
 ## Screenshots
 
-
-![Dashboard](assets/screenshots/dashboard.png)
+![Login](assets/login.png)
+![Dashboard](assets/account_dashboard.png)
+![Admin Dashboard](assets/admin_dashboard.png)
+![Deposit and Withdrawal](assets/deposit_withdrawal.png)
+![Transaction History](assets/transaction_history.png)
+![Transfer Funds](assets/transfer_funds.png)
 
 ---
 
